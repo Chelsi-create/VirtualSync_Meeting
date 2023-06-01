@@ -68,7 +68,7 @@ export default function Header() {
         <Link to="/">
           <EuiText>
             <h2 style={{ padding: "0 1vw" }}>
-              <EuiTextColor color="#013289">VirtualSync</EuiTextColor>
+              <EuiTextColor color="#4154f1">VirtualSync</EuiTextColor>
             </h2>
           </EuiText>
         </Link>,
@@ -81,7 +81,7 @@ export default function Header() {
             <EuiText>
               <h3>
                 <EuiTextColor color="white">Hello, </EuiTextColor>
-                <EuiTextColor color="#013289">{userName}</EuiTextColor>
+                <EuiTextColor color="#4154f1">{userName}</EuiTextColor>
               </h3>
             </EuiText>
           ) : null}
@@ -137,7 +137,7 @@ export default function Header() {
         <Link to="/">
           <EuiText>
             <h2 style={{ padding: "0 1vw" }}>
-              <EuiTextColor color="#013289">SMART CLASSROOM</EuiTextColor>
+              <EuiTextColor color="#4154f1">VirtualSync</EuiTextColor>
             </h2>
           </EuiText>
         </Link>,
