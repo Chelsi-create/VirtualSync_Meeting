@@ -71,7 +71,7 @@ function Login() {
                 <EuiText textAlign="center" grow={false}>
                   <h3>
                     <EuiTextColor>One Platform to</EuiTextColor>
-                    <EuiTextColor color="#0b5cff"> connect</EuiTextColor>
+                    <EuiTextColor color="#013289"> connect</EuiTextColor>
                   </h3>
                 </EuiText>
                 <EuiSpacer size="l" />

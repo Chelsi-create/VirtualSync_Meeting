@@ -52,8 +52,8 @@ export default function App() {
 
   const overrides = {
     colors: {
-      LIGHT: { primary: "#0b5cff" },
-      DARK: { primary: "#0b5cff" },
+      LIGHT: { primary: "#013289" },
+      DARK: { primary: "#013289" },
     },
   };
 
